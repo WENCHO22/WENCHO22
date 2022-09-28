@@ -1,8 +1,8 @@
 ### Hi there, I'm Wenceslao! 👋
 I am a front-end Web Developer based in Copenhagen, Denmark.<br>
 
-- 🔭 I’m currently finishing a full-stack Web Development course in [HackYourFuture Copenhagen](https://www.hackyourfuture.dk/).<br>
-- 🌱 I’m currently learning React.<br>
+- 🔭 I’m a full-stack Web Developer.<br>
+- 🌱 I’m perfecting my skills in React.<br>
 - 👯 I’m looking to collaborate on projects that help me grow as a Web Developer.<br>
 - 🤔 I’m looking for help with NodeJS and backend.<br>
 - 💬 Ask me about my travels, I've been all around.. I am also good at bad jokes! <br>
