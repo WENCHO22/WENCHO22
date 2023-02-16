@@ -4,7 +4,6 @@ I am a front-end Web Developer based in Copenhagen, Denmark.<br>
 - 🔭 I’m a full-stack Web Developer.<br>
 - 🌱 I’m perfecting my skills in React.<br>
 - 👯 I’m looking to collaborate on projects that help me grow as a Web Developer.<br>
-- 🤔 I’m looking for help with NodeJS and backend.<br>
 - 💬 Ask me about my travels, I've been all around.. I am also good at bad jokes! <br>
 - 📫 How to reach me: [:email:](mailto:wencho22@gmail.com) [<img alt="My LinkedIN" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/wenceslao-posse-silva-039011206/)<br>
 - 😄 Pronouns: Optimistic, fun, creative.<br>
